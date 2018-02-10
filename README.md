@@ -1,9 +1,13 @@
 **&emsp;&emsp;根据设计模式的参考书 Design Patterns - Elements of Reusable Object-Oriented Software（中文译名：设计模式 - 可复用的面向对象软件元素） 中所提到的，总共有 23 种设计模式。这些模式可以分为三大类：**
+
 **&emsp;&emsp;①创建型模式（Creational Patterns）**
+
 **&emsp;&emsp;②结构型模式（Structural Patterns）**
+
 **&emsp;&emsp;③行为型模式（Behavioral Patterns）**
+
 **&emsp;&emsp;④J2EE 设计模式。**
-##1. 创建型模式##
+##1. 创建型模式
 **这些设计模式提供了一种在创建对象的同时隐藏创建逻辑的方式，而不是使用 new 运算符直接实例化对象。这使得程序在判断针对某个给定实例需要创建哪些对象时更加灵活**
 * 工厂模式（Factory Pattern）
 * 抽象工厂模式（Abstract Factory Pattern）
@@ -11,7 +15,7 @@
 * 建造者模式（Builder Pattern）
 * 原型模式（Prototype Pattern）
 
-##2. 结构型模式##
+##2. 结构型模式
 **这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。**
 * 适配器模式（Adapter Pattern）
 * 桥接模式（Bridge Pattern）
@@ -22,7 +26,7 @@
 * 享元模式（Flyweight Pattern）
 * 代理模式（Proxy Pattern）
 
-##3. 行为型模式##
+##3. 行为型模式
 **这些设计模式特别关注对象之间的通信。**
 * 责任链模式（Chain of Responsibility Pattern）
 * 命令模式（Command Pattern）
@@ -37,7 +41,7 @@
 * 模板模式（Template Pattern）
 * 访问者模式（Visitor Pattern）
 
-##4. J2EE 模式##
+##4. J2EE 模式
 **这些设计模式特别关注表示层,该设计模式是由 Sun Java Center 鉴定的。**
 * MVC 模式（MVC Pattern）
 * 业务代表模式（Business Delegate Pattern）
@@ -51,7 +55,7 @@
 **设计模式之间的关系:**
 ![设计模式之间的关系](https://raw.githubusercontent.com/FreedomFlySoftware/Markdown/master/images/designPattern/the-relationship-between-design-patterns.jpg)
 
-##设计模式的六大原则##
+##设计模式的六大原则
 **1、开闭原则（Open Close Principle）**
 &emsp;&emsp;开闭原则的意思是：对扩展开放，对修改关闭。在程序需要进行拓展的时候，不能去修改原有的代码，实现一个热插拔的效果。简言之，是为了使程序的扩展性好，易于维护和升级。想要达到这样的效果，我们需要使用接口和抽象类，后面的具体设计中我们会提到这点。
 **2、里氏代换原则（Liskov Substitution Principle）**
