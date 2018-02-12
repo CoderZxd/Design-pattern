@@ -26,7 +26,7 @@
 * [组合模式(Composite Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/composite)
 * [装饰器模式(Decorator Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/decorator)
 * [外观模式(Facade Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/facade)
-* 享元模式(Flyweight Pattern)
+* [享元模式(Flyweight Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/flyweight)
 * 代理模式(Proxy Pattern)
 
 **3. 行为型模式**
