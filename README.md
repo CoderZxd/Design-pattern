@@ -23,7 +23,7 @@
 * [适配器模式(Adapter Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/adapter)
 * [桥接模式(Bridge Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/bridge)
 * [过滤器模式(Filter、Criteria Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/filter)
-* 组合模式(Composite Pattern)
+* [组合模式(Composite Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/composite)
 * 装饰器模式(Decorator Pattern)
 * 外观模式(Facade Pattern)
 * 享元模式(Flyweight Pattern)
