@@ -25,7 +25,7 @@
 * [过滤器模式(Filter、Criteria Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/filter)
 * [组合模式(Composite Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/composite)
 * [装饰器模式(Decorator Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/decorator)
-* 外观模式(Facade Pattern)
+* [外观模式(Facade Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/facade)
 * 享元模式(Flyweight Pattern)
 * 代理模式(Proxy Pattern)
 
