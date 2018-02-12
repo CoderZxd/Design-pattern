@@ -15,7 +15,7 @@
 * [抽象工厂模式(Abstract Factory Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/abstractfactory)
 * [单例模式(Singleton Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/singleton)
 * [建造者模式(Builder Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/builder)
-* 原型模式(Prototype Pattern)
+* [原型模式(Prototype Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/prototype)
 
 **2. 结构型模式**
 
