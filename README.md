@@ -43,12 +43,12 @@
 * [空对象模式(Null Object Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/nullobject)
 * [策略模式(Strategy Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/strategy)
 * [模板模式(Template Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/template)
-* 访问者模式(Visitor Pattern)
+* [访问者模式(Visitor Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/visitor)
 
 **4. J2EE 模式**
 
 &emsp;&emsp;这些设计模式特别关注表示层,该设计模式是由 Sun Java Center 鉴定的。
-* MVC 模式(MVC Pattern)
+* [MVC 模式(MVC Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/mvc)
 * 业务代表模式(Business Delegate Pattern)
 * 组合实体模式(Composite Entity Pattern)
 * 数据访问对象模式(Data Access Object Pattern)
