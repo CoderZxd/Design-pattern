@@ -40,7 +40,7 @@
 * [备忘录模式(Memento Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/memento)
 * [观察者模式(Observer Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/observer)
 * [状态模式(State Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/state)
-* 空对象模式(Null Object Pattern)
+* [空对象模式(Null Object Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/nullobject)
 * 策略模式(Strategy Pattern)
 * 模板模式(Template Pattern)
 * 访问者模式(Visitor Pattern)
