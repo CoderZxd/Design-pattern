@@ -42,7 +42,7 @@
 * [状态模式(State Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/state)
 * [空对象模式(Null Object Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/nullobject)
 * [策略模式(Strategy Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/strategy)
-* 模板模式(Template Pattern)
+* [模板模式(Template Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/template)
 * 访问者模式(Visitor Pattern)
 
 **4. J2EE 模式**
