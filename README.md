@@ -51,7 +51,7 @@
 * [MVC 模式(MVC Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/mvc)
 * [业务代表模式(Business Delegate Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/businessdelegate)
 * [组合实体模式(Composite Entity Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/compositeentity)
-* 数据访问对象模式(Data Access Object Pattern)
+* [数据访问对象模式(Data Access Object Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/dao)
 * 前端控制器模式(Front Controller Pattern)
 * 拦截过滤器模式(Intercepting Filter Pattern)
 * 服务定位器模式(Service Locator Pattern)
