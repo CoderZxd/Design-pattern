@@ -55,7 +55,7 @@
 * [前端控制器模式(Front Controller Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/frontcontroller)
 * [拦截过滤器模式(Intercepting Filter Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/intercepting)
 * [服务定位器模式(Service Locator Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/servicelocator)
-* 传输对象模式(Transfer Object Pattern)
+* [传输对象模式(Transfer Object Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/transfer)
 
 **设计模式之间的关系:**
 ![设计模式之间的关系](https://raw.githubusercontent.com/FreedomFlySoftware/Markdown/master/images/designPattern/the-relationship-between-design-patterns.jpg)
