@@ -37,7 +37,7 @@
 * [解释器模式(Interpreter Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/interpreter)
 * [迭代器模式(Iterator Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/iterator)
 * [中介者模式(Mediator Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/mediator)
-* 备忘录模式(Memento Pattern)
+* [备忘录模式(Memento Pattern)](https://github.com/FreedomFlySoftware/Design-pattern/tree/master/src/main/java/com/zxd/learning/designpattern/memento)
 * 观察者模式(Observer Pattern)
 * 状态模式(State Pattern)
 * 空对象模式(Null Object Pattern)
